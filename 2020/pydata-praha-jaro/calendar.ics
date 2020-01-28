@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+DTEND:20200206T190000Z
+DTSTART:20200206T170000Z
+SUMMARY:Explorativní datová analýza a statistika jedné proměnné
+UID:https://naucse.python.cz/2020/pydata-praha-jaro/sessions/eda3/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200130T190000Z
+DTSTART:20200130T170000Z
+SUMMARY:Datové typy a základy vizualizace v pandas
+UID:https://naucse.python.cz/2020/pydata-praha-jaro/sessions/eda2/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200123T190000Z
+DTSTART:20200123T170000Z
+SUMMARY:Představení\, Jupyter notebook\, základy pandas
+UID:https://naucse.python.cz/2020/pydata-praha-jaro/sessions/eda1/
+END:VEVENT
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+END:VCALENDAR

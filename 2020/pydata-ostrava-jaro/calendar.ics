@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+DTEND:20200205T180000Z
+DTSTART:20200205T160000Z
+SUMMARY:Představení\, Jupyter notebook\, základy pandas
+UID:https://naucse.python.cz/2020/pydata-ostrava-jaro/sessions/eda1/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200226T180000Z
+DTSTART:20200226T160000Z
+SUMMARY:EDA — Nulové hodnoty a odlehlá pozorování
+UID:https://naucse.python.cz/2020/pydata-ostrava-jaro/sessions/eda4/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200304T180000Z
+DTSTART:20200304T160000Z
+SUMMARY:EDA — Reprezentativnost dat\, CLT a automatický pomocník
+UID:https://naucse.python.cz/2020/pydata-ostrava-jaro/sessions/eda5/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200219T180000Z
+DTSTART:20200219T160000Z
+SUMMARY:EDA — více proměnných a vztahy
+UID:https://naucse.python.cz/2020/pydata-ostrava-jaro/sessions/eda3/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200212T180000Z
+DTSTART:20200212T160000Z
+SUMMARY:Explorační datová analýza a statistika jedné proměnné
+UID:https://naucse.python.cz/2020/pydata-ostrava-jaro/sessions/eda2/
+END:VEVENT
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+END:VCALENDAR
